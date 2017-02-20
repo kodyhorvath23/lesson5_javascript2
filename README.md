@@ -1,26 +1,21 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Project Name:  Expense Calculator Application
 
+### Course Title:
+LIS 2360:  Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+February 20, 2017
 
-To get you started, we included a small hello world application.
+### Student Name:  
+Kody Horvath
 
-1) Open the hello-world.html file
+### Project Description:
+This assignment had us create a tax calculator and learn the basics of making decisons with conditional statements. Also it taught us how to use reusable code with functions and it had us build array objects. 
+### View Project:
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. One lesson learned in this assignment was how to use if else and comparison operators. 
+2. The second lesson I learned in this assignment is Javascript array and looping arrays. 
+3. The third lesson I learned in this assignment is how ot use the Javascript console. 
