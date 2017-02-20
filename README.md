@@ -12,8 +12,7 @@ Kody Horvath
 ### Project Description:
 This assignment had us create a tax calculator and learn the basics of making decisons with conditional statements. Also it taught us how to use reusable code with functions and it had us build array objects. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kodyhorvath23.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. One lesson learned in this assignment was how to use if else and comparison operators. 
